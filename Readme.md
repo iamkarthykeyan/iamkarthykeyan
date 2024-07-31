@@ -1,4 +1,6 @@
-<h1 align="center">Hey there 🤖, I'm KARTHIKEYAN J</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20%20I'm%20%20Karthikeyan&height=100&section=header"/>
+</p>
 
 <p align="center">
   <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding gif" style="width:100%; height:auto;" />
@@ -96,8 +98,8 @@ Welcome to my GitHub! I'm a developer, designer, and cloud enthusiast dedicated 
 
 ### GitHub Stats
 
-<div style="background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbtNcS7F3XY0OFjEt9YHN6X3as9S4YcYN1O1xVoydNOmAW0MH5Gy2G9UzE3nf0SX68lpo&usqp=CAU') no-repeat center center; background-size: cover; border-radius: 15px; padding: 20px; margin: 20px 0; position: relative;">
-  <div style="background: rgba(255, 255, 255, 0.2); backdrop-filter: blur(10px); border-radius: 15px; padding: 20px;">
+
+  <div style="padding: 20px;">
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkarthykeyan&show_icons=true&locale=en&layout=compact" alt="iamkarthykeyan" />
     </p>
@@ -105,5 +107,8 @@ Welcome to my GitHub! I'm a developer, designer, and cloud enthusiast dedicated 
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthykeyan&" alt="iamkarthykeyan" />
     </p>
   </div>
-</div>
+
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
