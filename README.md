@@ -1,4 +1,7 @@
 <h1 align="center">Hello 👋, I'm KARTHIKEYAN J</h1>
+p align="center">
+  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding gif" style="width:100%; height:auto;" />
+</p>
 <h3 align="center">Welcome to my GitHub profile! I'm a passionate 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒓, 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 with a knack for creating elegant solutions and seamless experiences. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkarthykeyan&label=Profile%20views&color=0e75b6&style=flat" alt="iamkarthykeyan" /> </p>
