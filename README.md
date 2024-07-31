@@ -1,9 +1,9 @@
 <h1 align="center">Hello 👋, I'm KARTHIKEYAN J</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿, 𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗿, 𝗮𝗻𝗱 𝗖𝗹𝗼𝘂𝗱 𝗘𝗻𝘁𝗵𝘂𝘀𝗶𝗮𝘀𝘁 with a knack for creating elegant solutions and seamless experiences. 🚀</h3>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓, 𝑫𝒆𝒔𝒊𝒈𝒏𝒆𝒓, 𝒂𝒏𝒅 𝑪𝒍𝒐𝒖𝒅 𝑬𝒏𝒕𝒉𝒖𝒔𝒊𝒂𝒔𝒕 with a knack for creating elegant solutions and seamless experiences. 🚀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamkarthykeyan&label=Profile%20views&color=0e75b6&style=flat" alt="iamkarthykeyan" /> </p>
 
-- 📫 How to reach me **j.karthikeyandev@gmail.com**
+✉️ Drop Me a Line: **j.karthikeyandev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
