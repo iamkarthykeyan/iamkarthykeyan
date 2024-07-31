@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="center">
-Welcome to my GitHub! I'm a developer, designer, and cloud enthusiast dedicated to crafting elegant solutions. Explore my repositories. 🚀</h3>
+Welcome to my GitHub! I'm a DEVELOPER, DESIGNER, and CLOUD ENTHUSIAST dedicated to crafting elegant solutions. Explore my repositories. 🚀</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=iamkarthykeyan&label=Profile%20views&color=0e75b6&style=flat" alt="iamkarthykeyan" />
