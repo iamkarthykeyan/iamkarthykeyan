@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey!%20%20there!&height=100&section=header"/>
-  <h2>I'm Karthikeyan</h2>
+  <h1 align="center">I'm Karthikeyan</h1>
 </p>
 
 <p align="center">
