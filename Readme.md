@@ -1,10 +1,10 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20%20there!&height=100&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hey%20%20All!&height=100&section=header"/>
   <h1 align="center">I'm Karthikeyan</h1>
 </p>
 
 <p align="center">
-  <img src="https://i.redd.it/n8agw6z2smyb1.gif" alt="coding gif" style="width:100%; height:auto;" />
+  <img src="https://64.media.tumblr.com/a7f8c65c9f17aa7dba6dac57aa25c75f/818517ab5e6ae9f9-29/s540x810/6570d376ab30086bdf77ad9d34f41bf9a02c4482.gif" alt="coding gif" style="width:100%; height:auto;" />
 </p>
 
 <h3 align="center">
