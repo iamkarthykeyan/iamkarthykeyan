@@ -91,9 +91,6 @@ Welcome to my GitHub! I'm a DEVELOPER, DESIGNER, and CLOUD ENTHUSIAST dedicated 
     <p align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iamkarthykeyan&show_icons=true&locale=en&layout=compact" alt="iamkarthykeyan" />
     </p>
-    <p align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=iamkarthykeyan&" alt="iamkarthykeyan" />
-    </p>
   </div>
 
   <p align="center">
