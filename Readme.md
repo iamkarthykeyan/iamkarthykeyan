@@ -7,7 +7,7 @@
   <img src="https://64.media.tumblr.com/a7f8c65c9f17aa7dba6dac57aa25c75f/818517ab5e6ae9f9-29/s540x810/6570d376ab30086bdf77ad9d34f41bf9a02c4482.gif" alt="coding gif" style="width:100%; height:auto;" />
 </p>
 
-<h4 align="center">
+<h4>
 Welcome to my GitHub! I'm a DEVELOPER, DESIGNER, and CLOUD ENTHUSIAST dedicated to crafting elegant solutions. Explore my repositories. 🚀</h4>
 
 ### ✉️ Drop Me a Line
