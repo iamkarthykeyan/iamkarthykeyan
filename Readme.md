@@ -6,9 +6,9 @@
 <p align="center">
   <img src="https://64.media.tumblr.com/a7f8c65c9f17aa7dba6dac57aa25c75f/818517ab5e6ae9f9-29/s540x810/6570d376ab30086bdf77ad9d34f41bf9a02c4482.gif" alt="coding gif" style="width:100%; height:auto;" />
 </p>
-<h4 style="font-family: Arial, sans-serif; text-align: center; color: #2c3e50; font-size: 1.5em; padding: 20px; background-color: #ecf0f1; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+<h2 style="font-family: Arial, sans-serif; text-align: center; color: #2c3e50; font-size: 1.5em; padding: 20px; background-color: #ecf0f1; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
   Welcome to my GitHub! I'm a <span style="color: #e74c3c;">DEVELOPER</span>, <span style="color: #3498db;">DESIGNER</span>, and <span style="color: #f39c12;">CLOUD ENTHUSIAST</span> dedicated to crafting elegant solutions. Explore my repositories and discover what I've been working on. 🚀
-</h4>
+</h2>
 
 
 ### ✉️ Drop Me a Line
