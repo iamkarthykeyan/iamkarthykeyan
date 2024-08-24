@@ -8,7 +8,7 @@
 </p>
 
 <h3>
-  Welcome to my GitHub! I'm a <strong>Developer</strong>, <strong>Designer</strong>, and <strong>Cloud Enthusiast</strong> dedicated to crafting elegant solutions. Explore my repositories and discover what I've been working on. 🚀
+  Welcome to my GitHub! I'm a Developer, Designer, and Cloud Enthusiast dedicated to crafting elegant solutions. Explore my repositories and discover what I've been working on. 🚀
 <h3>
 
 
